@@ -1,0 +1,9 @@
+            Benefits Of Using Meta Tags:-
+1.Improvement In SEO:-If we use meta tags in html document then it improves the ranking of the website it gaves a structured look to the website.
+
+2.Better User-Experience:-We get better user experience using the meta tags in webpage.It improves the ranking of the website.
+
+3.Smooth Browser-Rendering:-Meta tags are also useful as a purpose of  smooth browser rendering.
+If we want the Browser rendering then meta tags plays an important role.
+
+4.Accessibility:-Meta tags are also useful for improved accessibility in website.It gave a structured look to our website.Meta tags and accessibility is very important also in seo.
